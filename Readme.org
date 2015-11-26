@@ -1,13 +1,12 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:06.680860
-#+TITLE: 修華嚴奧旨妄盡還源觀
-#+PROPERTY: CBETA_ID T45n1876
-#+PROPERTY: ID KR6e0090
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1876
-#+PROPERTY: VOL 45
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS T
+#+TITLE: 修華嚴奧旨妄盡還源觀 / T
+#+DATE: 2015-11-26 14:16:48.914020
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |     T@JIA|【大→甲】   |
+ |      T@YI|【大→乙】   |
 
-<pb:KR6e0090_T_000-0637a>¶
-
-[[file:KR6e0090_001.txt::0641a9][紀重校¶]]
+* 目次
+* [[file:KR6e0090_001.txt::0641a8][紀重校]]
+* 卷
+** [[file:KR6e0090_001.txt][修華嚴奧旨妄盡還源觀 1]]
